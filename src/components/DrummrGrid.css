@@ -1,0 +1,10 @@
+#pattern .card{
+    height: 100px;
+    width: 100px;
+    background-color: #cacaca;
+    border: 1px solid #777;
+}
+
+#pattern .card.pushed{
+    background-color: #acacac;
+}
